@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psicotest-online",
+  "private_key_id": "cfda687d98fa0717233dd8bee4adae312b154236",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCstQ36dNeSyync\n+nA82S6kLz0aaMkfeQW8SxQXT/FPnsmcUPauE/iGlagHEcIVywgnRwK/DxdAghs2\naHKnsbLii+UbREFqw55gIAi+vH2eW/fhiIbUiZv0WH8IeteJ9tc6Z3ZL1m3dq9k/\nM3qgDe2kuHPjIxLZvQTYAXZfs54q8GGH3ZVsZbTNk3X48Fww1/8gnyo4K06E8Nxv\nPg/M6Vf292OYnrIxWQVTO9JdqPdGnMX2VBZkNZScArA0nijS45GBYS+D0GCvsQRk\nF3LgFNKdWRTJeHdrFinYX8ClsBuUGT+k/g+FW2VeTKJI/6QjiNFDPvSwbeqEU4Jy\nWqcdUg0jAgMBAAECggEAPruBOVFJoIN1UFQTgrasr2yNOFOJgooWID/xK0qZb39Q\n4huyjqaoZlJj9zVnFz1pV8L+Z2HW41KfCdNEmk78mDeSX6YaUOp/U5EvPAEBbA0h\n6+UIfJkDcezXL8BXHEDyCr/cA03/GD68qa1MRGjqwiNRzNZHmZmD8eYOFlMLB7Mx\n7v67hRi3LkZ6d+7Vvhij/Q/2r0++ElirDEyLcbYupE/xB/tJgVvJSLq4EyuZECzB\n4zVekA0ZtA4NzznO/xIQthfY2zLDQoQ4tDLK2mMCTVySOacMWdd721YJRCICYZKM\nP7PrBN48GwwPOXU2Y1qDEP+b0QyXrgKCSbxApe46oQKBgQDeB1gFj2SbDJ9Lq0HW\nQWb1M41vAcJkBhy0f/Y5wSfrESSt3k1xYfeF6YXGiL1T6mFFvHGMNd4EaidIh5mD\niEz9qZXTapAGjawqfFfGU6gbaoV0oTOAEyOoEadj0RH2iU8duMIPhYDR5O2TrnBj\nUYjzagEGkWq/LC2wPrwuPppJ8wKBgQDHIdYB5qitiS/dG0N1nIYVYd6TuIH1Ql9P\nH25Lmzqx5rAZg/EIEJcZhgmILpHW3+VnQW52jOUs1iNv4NBQaTcNO54/QXyBWZG0\njU1IX2jj+XHHbbzR6O9heRlABMV6Ortbvp0qb+tBgPY+xruEvJxa296Qtxd3EVzT\nJ/dybSVMEQKBgAhyJRIJE12mjES3ngiFcmIvdNjdK0Tcyqi/GWG3DEqv20JV64I9\npMnOSU11FCamCs85TOR1hB2M4DOtHNTZEXywv8dMDXCCYSM4maossn9gfPUj0K61\ni6ywBzsPz+wd6wmJZrBqdq0FVVhB0Xqltlz0ElfqnjHpf09uA4CK1xmrAoGAKaqh\nzfoGl3EaK8i1n9llkPnOidhUkQ4XRUYNXRKZAHqFpIEgIRDfnP6X5f/gkjZ9GNLv\nGy02EuCnv5Qp4nlxhHpSDWhVdfdY7o+WeStFllYugY0rsjxsQlgFeYjGDWJWq8bB\nugx7DFTAsbgBqq+Qg853zo4RAeAHLUOymiXOZRECgYA2zE33imN8/f6CXQE6bfCm\nAR/q5tAhWxalMOkGyRZUkVIIUp6+IKfm32zvXaM8tl3z4V2C0ezlTm243XeONHW7\n7tdQasCvEXHoHW1CSdI/TwMc+HtI5I10y+/FWV0y71OPRZzWOX5uExdiMfLBnG4Y\nc8NNYJOnq45nrqU+WZ5dfA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7opli@psicotest-online.iam.gserviceaccount.com",
+  "client_id": "100492262220090252679",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7opli%40psicotest-online.iam.gserviceaccount.com"
+}
